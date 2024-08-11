@@ -1,8 +1,6 @@
 
 # Java Data Structures and Algorithms 👩🏻‍💻
 
---- 
-
 ## Topics Covered
 
 - Arrays
@@ -23,7 +21,5 @@
 - Dynamic Programming (DP)
 - Backtracking
 - Object-Oriented Programming (OOPs)
-
----
 
 
